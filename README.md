@@ -2,6 +2,7 @@
 ### Client: https://github.com/MobChar/Traffic-Violation-Management-Client
 
 ### Set up:
+- Java version: 13
 - MySQL 8.0 running in port 3306
 - mssql-jdbc-7.4.1.jre12
 ### Sample data
